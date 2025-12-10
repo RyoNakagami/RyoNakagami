@@ -13,6 +13,10 @@
 
 ## 🚀 Featured Projects
 
+### Development Setups
+
+- [byobu-config](https://github.com/RyoNakagami/byobu-config) - Personal Byobu/Tmux configuration and environment setup scripts.
+
 ### Development Tools
 
 - [yamlcli](https://github.com/RyoNakagami/yamlcli) - A command-line tool to convert between YAML and JSON formats.
