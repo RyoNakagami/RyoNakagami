@@ -16,6 +16,7 @@
 ### Development Setups
 
 - [byobu-config](https://github.com/RyoNakagami/byobu-config) - Personal Byobu/Tmux configuration and environment setup scripts.
+- [ruv](https://github.com/RyoNakagami/ruv) - UV-inspired R version and package manager for seamless installation, management, and switching between multiple R versions on your system.
 
 ### Development Tools
 
