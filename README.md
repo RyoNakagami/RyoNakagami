@@ -5,7 +5,7 @@
   <p>
     <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=for-the-badge" alt="status"/>
     <img src="https://img.shields.io/badge/Role-Data%20Scientist-blue?style=for-the-badge" alt="role"/>
-    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Quarto%20%7C%20RevealJS-blueviolet?style=for-the-badge" alt="stack"/>
+    <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Quarto%20%7C%20R%20%7C%20RevealJS-blueviolet?style=for-the-badge" alt="stack"/>
   </p>
 </div>
 
