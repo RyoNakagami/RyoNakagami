@@ -18,6 +18,10 @@
 - [byobu-config](https://github.com/RyoNakagami/byobu-config) - Personal Byobu/Tmux configuration and environment setup scripts.
 - [ruv](https://github.com/RyoNakagami/ruv) - UV-inspired R version and package manager for seamless installation, management, and switching between multiple R versions on your system.
 
+### Linux Utilities
+
+- [ubuntu-system-toolkit](https://github.com/RyoNakagami/ubuntu-system-toolkit) - A command-line toolkit for managing and administering Ubuntu systems efficiently.
+
 ### Development Tools
 
 - [yamlcli](https://github.com/RyoNakagami/yamlcli) - A command-line tool to convert between YAML and JSON formats.
