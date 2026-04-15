@@ -18,6 +18,7 @@
 - [byobu-config](https://github.com/RyoNakagami/byobu-config) - Personal Byobu/Tmux configuration and environment setup scripts.
 - [ruv](https://github.com/RyoNakagami/ruv) - UV-inspired R version and package manager for seamless installation, management, and switching between multiple R versions on your system.
 - [pyenv-manager](https://github.com/RyoNakagami/pyenv-manager) - A utility collection for managing pyenv installations
+- [skilltool-infra](https://github.com/RyoNakagami/skilltool-infra) - PyPI-like registry for Claude Agent `skill.md` packages — Tailscale-native, per-user tokens, HTTP/SSH dual transport
 
 ### Linux Utilities
 
