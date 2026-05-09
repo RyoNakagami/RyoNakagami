@@ -30,11 +30,16 @@
 - [parquet-tools](https://github.com/RyoNakagami/parquet-tools) - A CLI tools for working with Parquet files.
 - [pyspeedtest](https://github.com/RyoNakagami/pyspeedtest) - A simple command-line tool to test your internet speed.
 - [encoding-checker-cli](https://github.com/RyoNakagami/encoding-checker-cli) - A command-line tool for checking and converting text encoding.
+- [quarto-manager](https://github.com/RyoNakagami/quarto-manager) - A command-line tool to manage Quarto versions.
 
 ### Git & GitHub Utilities
 
 - [GitHub Issue Previewer](https://github.com/RyoNakagami/github-issue-previewer) - A lightweight tool to preview GitHub Issue templates from YAML in real-time with Jinja2 and Watchdog.
-- [regmonkey-gitcommand](https://github.com/RyoNakagami/regmonkey-gitcommand) - A command-line tool to manage Git repositories with ease. 
+- [regmonkey-gitcommand](https://github.com/RyoNakagami/regmonkey-gitcommand) - A command-line tool to manage Git repositories with ease.
+
+### Tips Related Tools
+
+- [regmonkeyu-zen](https://github.com/RyoNakagami/regmonkey-zen) - A command-line tool for displaying various "Zen" principles spanning Unix philosophy, software development, data visualization, and research methodologies.
 
 ---
 
