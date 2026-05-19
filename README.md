@@ -37,6 +37,10 @@
 - [GitHub Issue Previewer](https://github.com/RyoNakagami/github-issue-previewer) - A lightweight tool to preview GitHub Issue templates from YAML in real-time with Jinja2 and Watchdog.
 - [regmonkey-gitcommand](https://github.com/RyoNakagami/regmonkey-gitcommand) - A command-line tool to manage Git repositories with ease.
 
+### Claude Code Utilities
+
+- [claude-stats](https://github.com/RyoNakagami/claude-stats) - A command-line interface (CLI) tool for tracking and analyzing usage statistics of the Claude Code.
+
 ### Tips Related Tools
 
 - [regmonkeyu-zen](https://github.com/RyoNakagami/regmonkey-zen) - A command-line tool for displaying various "Zen" principles spanning Unix philosophy, software development, data visualization, and research methodologies.
