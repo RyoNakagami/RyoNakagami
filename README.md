@@ -28,7 +28,6 @@
 
 - [yamlcli](https://github.com/RyoNakagami/yamlcli) - A command-line tool to convert between YAML and JSON formats.
 - [parquet-tools](https://github.com/RyoNakagami/parquet-tools) - A CLI tools for working with Parquet files.
-- [pyspeedtest](https://github.com/RyoNakagami/pyspeedtest) - A simple command-line tool to test your internet speed.
 - [encoding-checker-cli](https://github.com/RyoNakagami/encoding-checker-cli) - A command-line tool for checking and converting text encoding.
 - [quarto-manager](https://github.com/RyoNakagami/quarto-manager) - A command-line tool to manage Quarto versions.
 
